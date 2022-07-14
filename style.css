@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://cdn.wallpapersafari.com/65/52/N4deZ1.jpg");
+}
+h1{
+    text-align: center;
+    color: blanchedalmond;
+    text-decoration: wavy;
+}
+.original{
+    text-align: left;
+    margin: 10px;
+}
+.copy{
+    text-align: center;
+    margin: 10px;
+}
+.paste{
+    text-align: right;
+    margin: 10px;
+}
+#button{
+    height: 50px;
+    width: 80px;
+    border-radius: 5px;
+    background-color: #946931f8;
+    color: whitesmoke;
+    cursor:copy;
+}
+#button:hover{
+    background-color: #582f1b;
+    color: wheat;
+}
